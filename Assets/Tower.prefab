@@ -376,6 +376,11 @@ PrefabInstance:
       propertyPath: CollisionModule.collisionMessages
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 419778754443242625, guid: cf6c091901d88dd4e8c9539725b9a20d,
+        type: 3}
+      propertyPath: CollisionModule.m_EnergyLossOnCollision.scalar
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 419778754443242630, guid: cf6c091901d88dd4e8c9539725b9a20d,
         type: 3}
       propertyPath: m_Name
